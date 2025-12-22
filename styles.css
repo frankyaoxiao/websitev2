@@ -156,6 +156,28 @@ main {
     font-weight: 500;
 }
 
+.social-links {
+    display: flex;
+    gap: 2rem;
+    margin-top: 3rem;
+    justify-content: center;
+}
+
+.social-link {
+    color: var(--primary-green);
+    font-size: 2rem;
+    transition: all 0.3s ease;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    text-decoration: none;
+}
+
+.social-link:hover {
+    color: var(--dark-green);
+    transform: translateY(-2px);
+}
+
 /* Blog Section */
 .blog-posts {
     display: flex;

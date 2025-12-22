@@ -41,7 +41,7 @@ body {
     margin: 0 auto;
     padding: 0 1.5rem;
     display: flex;
-    justify-content: space-between;
+    justify-content: center;
     align-items: center;
 }
 
@@ -92,6 +92,7 @@ main {
     display: none;
     padding: 4rem 0;
     animation: fadeIn 0.4s ease-in;
+    position: relative;
 }
 
 .section.active {

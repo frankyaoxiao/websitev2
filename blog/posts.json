@@ -1,8 +1,8 @@
 [
   {
     "id": "first-post",
-    "title": "My First Blog Post",
-    "description": "This is a short description of my first blog post. It gives readers a preview of what the post is about.",
+    "title": "Hello World",
+    "description": "Greetings to the internet!",
     "date": "2025-12-21",
     "file": "first-post.html"
   }

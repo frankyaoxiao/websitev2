@@ -157,6 +157,27 @@ main {
     font-weight: 500;
 }
 
+.about-content a {
+    color: var(--primary-green);
+    text-decoration: underline;
+}
+
+.about-content a:visited {
+    color: var(--primary-green);
+}
+
+.about-content a:hover {
+    opacity: 0.7;
+}
+
+.about-content .social-link {
+    text-decoration: none;
+}
+
+.about-content .social-link:hover {
+    opacity: 1;
+}
+
 .social-links {
     display: flex;
     gap: 2rem;
